@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: incidentlab
+server:
+  address: 127.0.0.1
+  port: ${INCIDENTLAB_PORT:8081}
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
