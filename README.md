@@ -21,7 +21,7 @@ Java 25 must be installed. Initial dependency downloads need network access. The
 
 ## Learning route
 
-Read [the docs index](docs/README.md), [acceptance tasks](docs/education/implementation-tasks.md), [feature coverage](docs/education/kotlin-feature-coverage.md) and [dated research](docs/research/kotlin-feature-research.md). Start IL00/01; do not regenerate the skeleton. One concept, learner-written change and changed case at a time. All domain behavior remains unimplemented and learner acceptance remains open.
+Read [the docs index](docs/README.md), [acceptance tasks](docs/education/implementation-tasks.md), [feature coverage](docs/education/kotlin-feature-coverage.md) and [dated research](docs/research/kotlin-feature-research.md). Continue IL00/01; do not regenerate the skeleton. One concept, small change and changed case at a time. The assisted IL00 exercise implements an immutable incident model and investigation transition with portable tests; see [guided evidence](docs/education/il00-guided-evidence.md). Learner acceptance remains open.
 
 The vault has separate Learning/Notes/IncidentLab and Learning/Notes/ClaimsLab folders and separate tracks. [The split record](docs/project-split.md) preserves the former curriculum mapping. New stable features and isolated previews are planned exercises; rich errors are a proposal comparison, not supported syntax in this application.
 
